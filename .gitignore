@@ -193,3 +193,31 @@ SQL_실습데이터/2024 SQLD(개정판) 개념정리.docx
 01_data_anal_proj/Wallmart_데이터분석보고서작성.ipynb
 01_data_anal_proj/Wallmart_데이터분석보고서작성.ipynb
 01_data_anal_proj/Wallmart_데이터분석보고서작성.ipynb
+data/UCI-HAR_Dataset/activity_labels.txt
+data/UCI-HAR_Dataset/features_info.txt
+data/UCI-HAR_Dataset/features.txt
+data/UCI-HAR_Dataset/README.txt
+data/UCI-HAR_Dataset/test/subject_test.txt
+data/UCI-HAR_Dataset/test/X_test.txt
+data/UCI-HAR_Dataset/test/y_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/body_acc_x_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/body_acc_y_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/body_acc_z_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/body_gyro_x_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/body_gyro_y_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/body_gyro_z_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/total_acc_x_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/total_acc_y_test.txt
+data/UCI-HAR_Dataset/test/Inertial Signals/total_acc_z_test.txt
+data/UCI-HAR_Dataset/train/subject_train.txt
+data/UCI-HAR_Dataset/train/X_train.txt
+data/UCI-HAR_Dataset/train/y_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/body_acc_x_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/body_acc_y_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/body_acc_z_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/body_gyro_x_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/body_gyro_y_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/body_gyro_z_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/total_acc_x_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/total_acc_y_train.txt
+data/UCI-HAR_Dataset/train/Inertial Signals/total_acc_z_train.txt
