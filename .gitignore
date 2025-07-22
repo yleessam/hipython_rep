@@ -224,3 +224,4 @@ data/UCI-HAR_Dataset/train/Inertial Signals/total_acc_z_train.txt
 data/creditcard.csv
 data/Dubizzle_used_car_sales.csv
 data1/Dubizzle_used_car_sales.csv
+39_1_bike대여량예측모델.ipynb
