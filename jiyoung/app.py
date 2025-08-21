@@ -29,9 +29,9 @@ st.sidebar.header('프로토타입')
 select_side = st.sidebar.selectbox('프로토타입', 
                                     ['카메라', '객체 인식', '전광판', 'Map & 통계'])
 
-img_1 = Image.open('./app/gorani.jpg')
-img_2 = Image.open('./app/yolo.png')
-img_3 = Image.open('./app/gorani_a.png')
+img_1 = Image.open('jiyoung/gorani.jpg')
+img_2 = Image.open('jiyoung/yolo.png')
+img_3 = Image.open('jiyoung/gorani_a.png')
 
 
 ## 페이지별 화면 구성
