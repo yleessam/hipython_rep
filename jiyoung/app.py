@@ -11,13 +11,15 @@ if "last_detection" not in st.session_state:
     st.session_state.last_detection = None
     
     
-
+from pathlib import Path
 ## 타이틀
 st.title('**AutocarZ - 자율주행 중 로드킬 안전 강화 및 자동 신고 서비스**')
 
 ## 사이드바
-
-img_4 = Image.open('./logo.png')
+BASE_DIR = Path(__file__).resolve().parent      # jiyoung/
+logo_path = BASE_DIR.parent / "logo.png"        # 저장소 루트의 logo.png
+img_4 = Image.open(logo_path)
+#img_4 = Image.open('./logo.png')
 
 st.sidebar.image(img_4)
 st.sidebar.header('프로토타입')
