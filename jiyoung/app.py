@@ -16,12 +16,12 @@ from pathlib import Path
 st.title('**AutocarZ - 자율주행 중 로드킬 안전 강화 및 자동 신고 서비스**')
 
 ## 사이드바
-HERE = Path(__file__).resolve().parent          # /mount/src/hipython_rep/jiyoung
-logo_path = HERE / "logo.png"                   # 같은 폴더의 logo.png
-print('*'*10 )
-print(logo_path)
-img_4 = Image.open(logo_path)
-#img_4 = Image.open('./logo.png')
+# HERE = Path(__file__).resolve().parent          # /mount/src/hipython_rep/jiyoung
+# logo_path = HERE / "logo.png"                   # 같은 폴더의 logo.png
+# print('*'*10 )
+# print(logo_path)
+# img_4 = Image.open(logo_path)
+img_4 = Image.open('jiyoung/logo.png')
 
 st.sidebar.image(img_4)
 st.sidebar.header('프로토타입')
